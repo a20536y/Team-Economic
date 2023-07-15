@@ -1,0 +1,2200 @@
+Country name,ISO3,year,Healthy life expectancy at birth
+Denmark,,2008,68.96
+Denmark,,2009,69.18
+Denmark,,2010,69.4
+Denmark,,2011,69.62
+Switzerland,,2012,71.52
+Canada,,2013,70.98
+Denmark,,2014,70.28
+Norway,,2015,71.2
+Finland,,2016,70.775
+Afghanistan,,2017,53.25
+Afghanistan,,2018,53.575
+Afghanistan,,2019,53.9
+Afghanistan,,2021,54.55
+Afghanistan,,2022,54.875
+Denmark,,2007,68.74
+Costa Rica,,2009,69.04
+Canada,,2010,70.8
+Netherlands,,2011,70.94
+Norway,,2012,70.6
+Denmark,,2013,70.06
+Switzerland,,2014,71.64
+Switzerland,,2015,71.7
+Norway,,2016,71.25
+Albania,,2017,69.05
+Albania,,2018,69.075
+Albania,,2019,69.1
+Albania,,2020,69.125
+Albania,,2021,69.15
+Albania,,2022,69.175
+Netherlands,,2010,70.9
+Austria,,2011,70
+Iceland,,2012,71.6
+Norway,,2014,71
+Denmark,,2016,70.625
+Algeria,,2017,66.2
+Algeria,,2018,66.3
+Algeria,,2019,66.4
+Algeria,,2020,66.5
+Algeria,,2021,66.6
+Israel,,2011,71.48
+Sweden,,2012,71.28
+Iceland,,2013,71.7
+Israel,,2014,71.72
+Finland,,2006,68.72
+New Zealand,,2007,69.74
+Finland,,2008,69.16
+Switzerland,,2009,71.34
+Sweden,,2010,71.2
+Canada,,2011,70.86
+Denmark,,2012,69.84
+Austria,,2013,70.2
+Finland,,2014,70.48
+Denmark,,2015,70.5
+Netherlands,,2016,71.175
+Argentina,,2017,67
+Argentina,,2018,67.05
+Argentina,,2019,67.1
+Argentina,,2020,67.15
+Argentina,,2021,67.2
+Argentina,,2022,67.25
+Switzerland,,2006,71.16
+United States,,2007,66.76
+Norway,,2008,69.8
+Canada,,2009,70.74
+Venezuela,,2010,65.3
+Australia,,2011,70.28
+Netherlands,,2012,70.98
+Finland,,2013,70.26
+Netherlands,,2014,71.06
+Iceland,,2015,71.9
+Iceland,,2016,71.925
+Armenia,,2017,66.55
+Armenia,,2018,66.825
+Armenia,,2019,67.1
+Armenia,,2021,67.65
+Armenia,,2022,67.925
+Denmark,,2005,68.3
+Canada,,2007,70.62
+Netherlands,,2008,70.82
+Australia,,2010,70.2
+Sweden,,2011,71.24
+Finland,,2012,70.04
+Mexico,,2013,65.52
+New Zealand,,2014,69.88
+Finland,,2015,70.7
+Switzerland,,2016,71.9
+Australia,,2017,70.75
+Australia,,2018,70.825
+Australia,,2019,70.9
+Australia,,2020,70.975
+Australia,,2021,71.05
+Australia,,2022,71.125
+Norway,,2006,69.4
+Ireland,,2008,69.86
+Finland,,2010,69.6
+Finland,,2011,69.82
+Canada,,2012,70.92
+Sweden,,2013,71.32
+Canada,,2014,71.04
+New Zealand,,2015,69.9
+Sweden,,2016,71.525
+Austria,,2017,70.65
+Austria,,2018,70.775
+Austria,,2019,70.9
+Austria,,2020,71.025
+Austria,,2021,71.15
+Austria,,2022,71.275
+New Zealand,,2006,69.72
+Netherlands,,2007,70.78
+Sweden,,2008,71.12
+Israel,,2009,71.32
+Israel,,2010,71.4
+Panama,,2011,67.66
+Austria,,2012,70.1
+Netherlands,,2013,71.02
+Australia,,2014,70.52
+Canada,,2015,71.1
+Australia,,2016,70.675
+Azerbaijan,,2017,63.35
+Azerbaijan,,2018,63.475
+Azerbaijan,,2019,63.6
+Sweden,,2009,71.16
+Panama,,2010,67.5
+Costa Rica,,2011,69.36
+Mexico,,2012,65.38
+Australia,,2013,70.44
+Costa Rica,,2014,69.84
+Netherlands,,2015,71.1
+Canada,,2016,71.15
+Bahrain,,2017,66.05
+Bahrain,,2019,65.9
+Bahrain,,2020,65.825
+United States,,2006,66.78
+Costa Rica,,2007,68.72
+Canada,,2008,70.68
+Venezuela,,2009,65.34
+Austria,,2010,69.9
+New Zealand,,2011,69.82
+Costa Rica,,2012,69.52
+Israel,,2013,71.64
+Sweden,,2014,71.36
+Australia,,2015,70.6
+New Zealand,,2016,69.975
+Bangladesh,,2017,64.05
+Bangladesh,,2018,64.175
+Bangladesh,,2019,64.3
+Bangladesh,,2020,64.425
+Bangladesh,,2021,64.55
+Bangladesh,,2022,64.675
+Israel,,2006,71.08
+Australia,,2007,69.96
+New Zealand,,2008,69.76
+United States,,2009,66.72
+Costa Rica,,2010,69.2
+United Arab Emirates,,2011,65.16
+New Zealand,,2012,69.84
+New Zealand,,2013,69.86
+United States,,2014,66.62
+Sweden,,2015,71.4
+Israel,,2016,71.95
+Belarus,,2017,65.55
+Belarus,,2018,65.775
+Belarus,,2019,66
+Netherlands,,2005,70.7
+Saudi Arabia,,2007,61.6
+Spain,,2008,70.76
+Ireland,,2010,70.1
+United States,,2011,66.68
+United Arab Emirates,,2012,65.22
+United States,,2013,66.64
+Singapore,,2014,73.02
+Israel,,2015,71.8
+Costa Rica,,2016,70
+Belgium,,2017,70.3
+Belgium,,2018,70.45
+Belgium,,2019,70.6
+Belgium,,2020,70.75
+Belgium,,2021,70.9
+Belgium,,2022,71.05
+Sweden,,2007,71.08
+Ireland,,2014,70.58
+Ireland,,2006,69.62
+United States,,2008,66.74
+Belgium,,2011,69.36
+Australia,,2012,70.36
+Costa Rica,,2013,69.68
+Thailand,,2014,67.82
+Austria,,2015,70.4
+Austria,,2016,70.525
+Benin,,2017,54.9
+Benin,,2018,55.2
+Benin,,2019,55.5
+Benin,,2020,55.8
+Benin,,2021,56.1
+Benin,,2022,56.4
+Brazil,,2013,64.38
+Germany,,2014,70.08
+Germany,,2015,70.1
+Austria,,2006,69.5
+Belgium,,2007,68.72
+Israel,,2008,71.24
+Ireland,,2009,69.98
+New Zealand,,2010,69.8
+Luxembourg,,2011,70.7
+Israel,,2012,71.56
+Luxembourg,,2013,71.1
+Brazil,,2014,64.54
+Belgium,,2015,70
+Ireland,,2016,70.8
+Bolivia,,2017,63
+Bolivia,,2018,63.15
+Bolivia,,2019,63.3
+Bolivia,,2020,63.45
+Bolivia,,2021,63.6
+Bolivia,,2022,63.75
+Spain,,2007,70.64
+Panama,,2009,67.34
+United States,,2010,66.7
+Brazil,,2011,64.06
+Venezuela,,2012,65.22
+Belgium,,2013,69.68
+Austria,,2014,70.3
+United States,,2015,66.6
+Luxembourg,,2016,71.525
+Bosnia and Herzegovina,,2017,67.1
+Bosnia and Herzegovina,,2018,67.15
+Bosnia and Herzegovina,,2019,67.2
+Bosnia and Herzegovina,,2020,67.25
+Bosnia and Herzegovina,,2021,67.3
+Costa Rica,,2006,68.56
+Australia,,2008,70.04
+Luxembourg,,2010,70.5
+Ireland,,2011,70.22
+United States,,2012,66.66
+Germany,,2013,70.06
+Luxembourg,,2014,71.3
+Costa Rica,,2015,70
+Belgium,,2016,70.15
+Botswana,,2017,53.35
+Botswana,,2018,53.625
+Botswana,,2019,53.9
+Botswana,,2022,54.725
+Canada,,2005,70.5
+Panama,,2007,67.02
+Austria,,2008,69.7
+Brazil,,2009,63.74
+United Arab Emirates,,2010,65.1
+France,,2011,71.3
+Ireland,,2012,70.34
+United Kingdom,,2013,69.58
+Belgium,,2014,69.84
+Ireland,,2015,70.7
+Germany,,2016,70.3
+Brazil,,2017,65.05
+Brazil,,2018,65.225
+Brazil,,2019,65.4
+Brazil,,2020,65.575
+Brazil,,2021,65.75
+Brazil,,2022,65.925
+Israel,,2007,71.16
+United Kingdom,,2010,69.4
+South Korea,,2011,71.12
+Luxembourg,,2012,70.9
+Panama,,2013,67.98
+Chile,,2014,69.22
+Luxembourg,,2015,71.5
+United Arab Emirates,,2016,65.55
+Bulgaria,,2017,66.1
+Bulgaria,,2018,66.2
+Bulgaria,,2019,66.3
+Bulgaria,,2020,66.4
+Bulgaria,,2021,66.5
+Bulgaria,,2022,66.6
+United Arab Emirates,,2006,64.86
+Singapore,,2007,71.76
+Belgium,,2008,68.88
+Belgium,,2010,69.2
+Mexico,,2011,65.24
+Belgium,,2012,69.52
+Ireland,,2013,70.46
+United Kingdom,,2014,69.64
+Argentina,,2015,66.9
+Mexico,,2016,65.8
+Burkina Faso,,2017,54.15
+Burkina Faso,,2018,54.525
+Burkina Faso,,2019,54.9
+Burkina Faso,,2020,55.275
+Burkina Faso,,2021,55.65
+France,,2008,71
+Mexico,,2009,64.96
+United Kingdom,,2011,69.46
+Mexico,,2014,65.66
+Burundi,,2018,55.2
+France,,2006,70.8
+United Kingdom,,2007,69.22
+United Kingdom,,2008,69.28
+Luxembourg,,2009,70.3
+Qatar,,2010,64.7
+Oman,,2011,62.34
+United Kingdom,,2012,69.52
+Chile,,2013,69.04
+Argentina,,2014,66.78
+Uruguay,,2015,67.5
+United Kingdom,,2016,69.8
+Cambodia,,2017,61.1
+Cambodia,,2018,61.3
+Cambodia,,2019,61.5
+Cambodia,,2020,61.7
+Cambodia,,2021,61.9
+Cambodia,,2022,62.1
+Venezuela,,2006,65.46
+Greece,,2007,69.76
+Panama,,2008,67.18
+United Kingdom,,2009,69.34
+Brazil,,2010,63.9
+Argentina,,2011,66.42
+Panama,,2012,67.82
+Czechia,,2013,68.06
+Panama,,2014,68.14
+Singapore,,2015,73.2
+United States,,2016,66.475
+Cameroon,,2017,53.15
+Cameroon,,2018,53.825
+Cameroon,,2019,54.5
+Cameroon,,2020,55.175
+Cameroon,,2021,55.85
+Cameroon,,2022,56.525
+Sweden,,2005,71
+Italy,,2007,70.8
+Iceland,,2008,71.2
+United Arab Emirates,,2009,65.04
+Mexico,,2010,65.1
+Saudi Arabia,,2011,62.4
+Germany,,2012,70.04
+Bahrain,,2013,65.72
+Uruguay,,2014,67.42
+Malta,,2015,71.3
+Czechia,,2016,68.425
+Canada,,2017,71.2
+Canada,,2018,71.25
+Canada,,2019,71.3
+Canada,,2020,71.35
+Canada,,2021,71.4
+Canada,,2022,71.45
+Mexico,,2007,64.68
+France,,2010,71.2
+Cyprus,,2011,70.96
+Malta,,2016,71.35
+Central African Republic,,2017,45.3
+Singapore,,2006,71.58
+Czechia,,2007,67.34
+Costa Rica,,2008,68.88
+El Salvador,,2009,64.58
+Kuwait,,2010,69.2
+Thailand,,2011,67.28
+Brazil,,2012,64.22
+France,,2013,71.5
+United Arab Emirates,,2014,65.34
+Czechia,,2015,68.3
+Chile,,2016,69.55
+Chad,,2017,51.25
+Chad,,2018,51.625
+Chad,,2019,52
+Chad,,2022,53.125
+Argentina,,2006,65.82
+Belize,,2007,64.3
+Mexico,,2008,64.82
+Cyprus,,2009,70.64
+El Salvador,,2010,64.4
+Germany,,2011,70.02
+France,,2012,71.4
+United Arab Emirates,,2013,65.28
+Guatemala,,2014,61.22
+Panama,,2015,68.3
+Taiwan Province of China,,2016,
+Chile,,2017,69.7
+Chile,,2018,69.85
+Chile,,2019,70
+Chile,,2020,70.15
+Chile,,2021,70.3
+Chile,,2022,70.45
+Cyprus,,2006,70.16
+Germany,,2007,69.94
+Saudi Arabia,,2008,61.8
+Germany,,2009,69.98
+Germany,,2010,70
+Qatar,,2011,65.04
+Qatar,,2012,65.38
+Colombia,,2013,67.86
+Czechia,,2014,68.18
+United Arab Emirates,,2015,65.4
+France,,2016,71.8
+China,,2017,68.25
+China,,2018,68.375
+China,,2019,68.5
+China,,2020,68.625
+China,,2021,68.75
+Jamaica,,2006,66.6
+Guatemala,,2007,59.26
+Italy,,2008,70.9
+Kuwait,,2009,69
+Chile,,2010,68.5
+Venezuela,,2011,65.26
+Chile,,2012,68.86
+Argentina,,2013,66.66
+France,,2014,71.6
+Brazil,,2015,64.7
+Saudi Arabia,,2016,63.4
+Colombia,,2017,68.65
+Colombia,,2018,68.825
+Colombia,,2019,69
+Colombia,,2020,69.175
+Colombia,,2021,69.35
+Colombia,,2022,69.525
+Turkmenistan,,2009,59.78
+Singapore,,2010,72.3
+Singapore,,2011,72.48
+Argentina,,2012,66.54
+Comoros,,2018,58.725
+Comoros,,2019,58.9
+Comoros,,2022,59.425
+Trinidad and Tobago,,2008,62.54
+Uruguay,,2011,67.18
+Uruguay,,2012,67.26
+Venezuela,,2013,65.18
+Spain,,2014,71.48
+Chile,,2015,69.4
+Argentina,,2016,66.95
+Congo (Brazzaville),,2017,55.55
+Congo (Brazzaville),,2018,55.875
+Congo (Brazzaville),,2019,56.2
+Congo (Brazzaville),,2020,56.525
+Congo (Brazzaville),,2021,56.85
+Congo (Brazzaville),,2022,57.175
+Chile,,2009,68.32
+Chile,,2011,68.68
+Saudi Arabia,,2012,62.6
+Singapore,,2013,72.84
+Malta,,2014,71.12
+United Kingdom,,2015,69.7
+Brazil,,2016,64.875
+Congo (Kinshasa),,2017,53.25
+Congo (Kinshasa),,2022,55.375
+Taiwan Province of China,,2006,68.68
+Brazil,,2007,63.42
+Brazil,,2008,63.58
+Guatemala,,2009,59.82
+Argentina,,2010,66.3
+Trinidad and Tobago,,2011,63.68
+Colombia,,2012,67.64
+Saudi Arabia,,2013,62.8
+Colombia,,2014,68.08
+Guatemala,,2015,61.5
+Guatemala,,2016,61.7
+Costa Rica,,2017,70
+Costa Rica,,2018,70
+Costa Rica,,2019,70
+Costa Rica,,2020,70
+Costa Rica,,2021,70
+Costa Rica,,2022,70
+Malaysia,,2007,65.16
+Argentina,,2009,66.18
+Colombia,,2010,67.2
+Spain,,2011,71.12
+Czechia,,2012,67.94
+Kuwait,,2013,69.8
+Taiwan Province of China,,2014,
+Taiwan Province of China,,2015,
+Spain,,2016,71.725
+Croatia,,2017,68.25
+Croatia,,2018,68.425
+Croatia,,2019,68.6
+Croatia,,2020,68.775
+Croatia,,2021,68.95
+Croatia,,2022,69.125
+Panama,,2006,66.86
+Kuwait,,2006,68.4
+Qatar,,2009,64.36
+Cyprus,,2010,70.8
+Colombia,,2011,67.42
+Thailand,,2012,67.46
+Uruguay,,2013,67.34
+Algeria,,2014,65.9
+Colombia,,2015,68.3
+Colombia,,2016,68.475
+Cyprus,,2017,72
+Cyprus,,2018,72.2
+Cyprus,,2019,72.4
+Cyprus,,2020,72.6
+Cyprus,,2021,72.8
+Cyprus,,2022,73
+Australia,,2005,69.8
+Japan,,2005,72.4
+Italy,,2010,71.1
+Kuwait,,2011,69.4
+Spain,,2012,71.24
+Malta,,2013,70.94
+Saudi Arabia,,2014,63
+Spain,,2015,71.6
+Uruguay,,2016,67.5
+Czechia,,2017,68.55
+Czechia,,2018,68.675
+Czechia,,2020,68.925
+Czechia,,2021,69.05
+Czechia,,2022,69.175
+Belgium,,2005,68.4
+Colombia,,2007,66.54
+Singapore,,2008,71.94
+Italy,,2009,71
+Saudi Arabia,,2010,62.2
+Czechia,,2011,67.82
+Suriname,,2012,62.84
+Taiwan Province of China,,2013,
+Nicaragua,,2014,65.1
+Qatar,,2015,66.4
+Bahrain,,2016,66.125
+Denmark,,2017,70.75
+Denmark,,2018,70.875
+Denmark,,2019,71
+Denmark,,2020,71.125
+Denmark,,2021,71.25
+Denmark,,2022,71.375
+Germany,,2008,69.96
+Malta,,2009,70.22
+Guatemala,,2010,60.1
+Taiwan Province of China,,2011,
+Chile,,2006,67.78
+Argentina,,2007,65.94
+Guatemala,,2008,59.54
+Uruguay,,2009,67.02
+Czechia,,2010,67.7
+Japan,,2007,72.64
+Kuwait,,2012,69.6
+El Salvador,,2013,63.86
+Kuwait,,2014,70
+France,,2015,71.7
+Poland,,2016,68.175
+Dominican Republic,,2017,63.6
+Dominican Republic,,2018,63.8
+Dominican Republic,,2019,64
+Dominican Republic,,2020,64.2
+Dominican Republic,,2021,64.4
+Dominican Republic,,2022,64.6
+Colombia,,2006,66.32
+Guyana,,2007,56.24
+Venezuela,,2008,65.38
+France,,2009,71.1
+Taiwan Province of China,,2010,69.6
+Malta,,2011,70.58
+Cyprus,,2012,71.12
+Thailand,,2013,67.64
+Bahrain,,2014,65.96
+Saudi Arabia,,2015,63.2
+El Salvador,,2016,63.85
+Ecuador,,2017,68
+Ecuador,,2018,68.25
+Ecuador,,2019,68.5
+Ecuador,,2020,68.75
+Ecuador,,2021,69
+Ecuador,,2022,69.25
+Venezuela,,2005,65.5
+Poland,,2007,66.56
+Colombia,,2008,66.76
+Colombia,,2009,66.98
+Thailand,,2010,67.1
+Italy,,2011,71.2
+Taiwan Province of China,,2012,
+Trinidad and Tobago,,2013,64.44
+Slovakia,,2014,67.38
+Malaysia,,2015,65.8
+Panama,,2016,68.4
+Egypt,,2017,62.5
+Egypt,,2018,62.75
+Egypt,,2019,63
+Egypt,,2020,63.25
+Egypt,,2021,63.5
+Egypt,,2022,63.75
+Malaysia,,2006,65.08
+Croatia,,2007,66.94
+Argentina,,2008,66.06
+Spain,,2009,70.88
+Spain,,2010,71
+Slovenia,,2011,69.36
+Slovenia,,2012,69.52
+Spain,,2013,71.36
+Venezuela,,2014,65.14
+Mexico,,2015,65.8
+Ecuador,,2016,67.75
+El Salvador,,2017,64.2
+El Salvador,,2018,64.55
+El Salvador,,2019,64.9
+El Salvador,,2020,65.25
+El Salvador,,2021,65.6
+El Salvador,,2022,65.95
+Lithuania,,2006,63.5
+Lithuania,,2007,63.7
+Japan,,2008,72.76
+Saudi Arabia,,2009,62
+Slovakia,,2011,66.72
+Croatia,,2012,67.54
+Kosovo,,2013,
+Lithuania,,2014,65.1
+Thailand,,2015,68
+Thailand,,2016,68.075
+Estonia,,2017,68.75
+Estonia,,2018,68.975
+Estonia,,2019,69.2
+Estonia,,2020,69.425
+Estonia,,2021,69.65
+Estonia,,2022,69.875
+Peru,,2011,67.76
+Eswatini,,2018,49.3
+Eswatini,,2019,50.1
+Bolivia,,2012,62.1
+Ecuador,,2013,66.82
+Uzbekistan,,2014,63.26
+Slovakia,,2015,67.6
+Singapore,,2016,73.3
+Ethiopia,,2017,59.1
+Ethiopia,,2018,59.5
+Ethiopia,,2019,59.9
+Ethiopia,,2020,60.3
+Ethiopia,,2022,61.1
+Guatemala,,2006,58.98
+Kazakhstan,,2008,59.2
+South Korea,,2010,70.9
+Albania,,2011,67.88
+Uzbekistan,,2012,62.78
+Italy,,2013,71.4
+Russia,,2014,62.26
+Kuwait,,2015,70.2
+Nicaragua,,2016,65.275
+Finland,,2017,70.85
+Finland,,2018,70.925
+Finland,,2019,71
+Finland,,2020,71.075
+Finland,,2021,71.15
+Finland,,2022,71.225
+Spain,,2005,70.4
+Thailand,,2006,66.38
+Malaysia,,2008,65.24
+Singapore,,2009,72.12
+Slovenia,,2010,69.2
+Ecuador,,2011,66.14
+South Korea,,2012,71.34
+Guatemala,,2013,60.94
+Italy,,2014,71.5
+El Salvador,,2015,63.5
+Slovakia,,2016,67.825
+France,,2017,71.9
+France,,2018,72
+France,,2019,72.1
+France,,2020,72.2
+France,,2021,72.3
+France,,2022,72.4
+Moldova,,2011,61.38
+Moldova,,2012,61.76
+Slovenia,,2013,69.68
+Kazakhstan,,2014,62.8
+Moldova,,2015,62.9
+South Korea,,2016,72.275
+Gabon,,2017,56.95
+Gabon,,2018,57.275
+Gabon,,2019,57.6
+Gabon,,2020,57.925
+Gabon,,2021,58.25
+Gabon,,2022,58.575
+Gambia,,2017,56.4
+Gambia,,2018,56.7
+Gambia,,2019,57
+Gambia,,2022,57.9
+Trinidad and Tobago,,2006,61.78
+Thailand,,2007,66.56
+Chile,,2008,68.14
+Bolivia,,2009,61.5
+Uruguay,,2010,67.1
+Turkmenistan,,2011,60.42
+Japan,,2009,72.88
+Japan,,2010,73
+Malaysia,,2014,65.72
+Bahrain,,2015,66.2
+Romania,,2016,66.425
+Georgia,,2017,64.45
+Georgia,,2018,64.575
+Georgia,,2019,64.7
+Georgia,,2020,64.825
+Georgia,,2021,64.95
+Georgia,,2022,65.075
+France,,2005,70.7
+South Korea,,2007,70.24
+Portugal,,2008,68.82
+Greece,,2009,69.92
+Japan,,2011,73.12
+Malaysia,,2011,65.48
+Malta,,2012,70.76
+South Korea,,2013,71.56
+Belize,,2014,65
+Poland,,2015,68
+Italy,,2016,71.675
+Germany,,2017,70.5
+Germany,,2018,70.7
+Germany,,2019,70.9
+Germany,,2020,71.1
+Germany,,2021,71.3
+Germany,,2022,71.5
+Slovenia,,2006,68.56
+Kazakhstan,,2007,58.6
+Uruguay,,2008,66.94
+Honduras,,2009,62.5
+Slovakia,,2010,66.5
+Bolivia,,2011,61.9
+Ecuador,,2012,66.48
+Uzbekistan,,2013,63.02
+Ecuador,,2014,67.16
+Russia,,2015,62.7
+Japan,,2012,73.24
+Ghana,,2017,57.25
+Ghana,,2018,57.625
+Ghana,,2019,58
+Ghana,,2020,58.375
+Ghana,,2021,58.75
+Ghana,,2022,59.125
+Saudi Arabia,,2005,61.2
+Chile,,2007,67.96
+Ecuador,,2009,65.46
+Bahrain,,2010,65
+Vietnam,,2011,64.58
+El Salvador,,2012,64.04
+Slovakia,,2013,67.16
+Japan,,2013,73.36
+Uzbekistan,,2015,63.5
+Kuwait,,2016,70.175
+Greece,,2017,70.65
+Greece,,2018,70.775
+Greece,,2019,70.9
+Greece,,2020,71.025
+Greece,,2021,71.15
+Greece,,2022,71.275
+Uruguay,,2006,66.78
+Uruguay,,2007,66.86
+Thailand,,2008,66.74
+Jordan,,2009,66.52
+Poland,,2010,67.1
+Guatemala,,2011,60.38
+Malaysia,,2012,65.56
+Paraguay,,2013,65.44
+Moldova,,2014,62.52
+Ecuador,,2015,67.5
+Latvia,,2016,65.9
+Guatemala,,2017,61.9
+Guatemala,,2018,62.1
+Guatemala,,2019,62.3
+Guatemala,,2022,62.9
+Uzbekistan,,2011,62.54
+Slovakia,,2012,66.94
+Croatia,,2013,67.66
+Peru,,2014,68.54
+Kazakhstan,,2015,63.4
+Slovenia,,2016,70.175
+Guinea,,2017,52.4
+Guinea,,2018,52.85
+Guinea,,2019,53.3
+Guinea,,2020,53.75
+Guinea,,2021,54.2
+Guinea,,2022,54.65
+Pakistan,,2007,53.72
+El Salvador,,2006,65.12
+Russia,,2008,59.62
+Honduras,,2010,62.3
+Kazakhstan,,2011,61
+Poland,,2012,67.46
+Belarus,,2013,63.98
+Bolivia,,2014,62.5
+Nicaragua,,2015,65.2
+Uzbekistan,,2016,63.8
+Haiti,,2017,55.2
+Haiti,,2018,55.5
+Belarus,,2006,60.06
+Bolivia,,2007,61.1
+Paraguay,,2008,65.04
+Kosovo,,2009,
+Paraguay,,2010,65.2
+Paraguay,,2011,65.28
+Guatemala,,2012,60.66
+Kazakhstan,,2013,62.2
+El Salvador,,2014,63.68
+Latvia,,2015,65.8
+Turkmenistan,,2016,61.8
+Honduras,,2017,62.15
+Honduras,,2018,62.575
+Honduras,,2019,63
+Honduras,,2021,63.85
+Honduras,,2022,64.275
+Hong Kong S.A.R. of China,,2006,
+Lithuania,,2008,63.9
+Japan,,2014,73.48
+Greece,,2010,70
+Poland,,2011,67.28
+Italy,,2012,71.3
+Belarus,,2014,64.54
+Lithuania,,2016,65.65
+Hong Kong S.A.R. of China,,2017,
+Hong Kong S.A.R. of China,,2019,
+Hong Kong S.A.R. of China,,2020,
+Hong Kong S.A.R. of China,,2021,
+United Kingdom,,2005,69.1
+Turkiye,,2007,66.42
+Slovenia,,2009,69.04
+Ecuador,,2010,65.8
+Ghana,,2011,54.74
+Peru,,2012,68.02
+Peru,,2013,68.28
+South Korea,,2014,71.78
+Japan,,2015,73.6
+Russia,,2016,63.075
+Hungary,,2017,66.9
+Hungary,,2018,67.05
+Hungary,,2019,67.2
+Hungary,,2020,67.35
+Hungary,,2021,67.5
+Hungary,,2022,67.65
+Taiwan Province of China,,2008,69.14
+Paraguay,,2012,65.36
+Nicaragua,,2013,65
+Italy,,2015,71.6
+Paraguay,,2016,65.65
+Iceland,,2017,71.95
+Iceland,,2019,72
+Iceland,,2020,72.025
+Iceland,,2021,72.05
+Iceland,,2022,72.075
+Kazakhstan,,2006,58
+Belarus,,2007,60.62
+Kosovo,,2008,
+Poland,,2009,66.92
+Pakistan,,2010,54.5
+Angola,,2011,51.22
+Lithuania,,2012,64.7
+Malaysia,,2013,65.64
+Turkmenistan,,2014,61.38
+Bolivia,,2015,62.7
+Cyprus,,2016,71.8
+India,,2017,59.7
+India,,2018,60
+India,,2019,60.3
+India,,2020,60.6
+India,,2021,60.9
+India,,2022,61.2
+Cuba,,2006,68
+Jordan,,2007,66.16
+Moldova,,2008,60.24
+Bahrain,,2009,64.76
+Bolivia,,2010,61.7
+Jordan,,2011,66.88
+Kazakhstan,,2012,61.6
+Bolivia,,2013,62.3
+Poland,,2014,67.82
+Turkmenistan,,2015,61.7
+Bolivia,,2016,62.85
+Indonesia,,2017,62.55
+Indonesia,,2018,62.675
+Indonesia,,2019,62.8
+Indonesia,,2020,62.925
+Indonesia,,2021,63.05
+Indonesia,,2022,63.175
+Italy,,2005,70.6
+Egypt,,2007,61.52
+Vietnam,,2008,64.34
+Estonia,,2011,67.18
+Libya,,2012,65.14
+Moldova,,2013,62.14
+Latvia,,2014,65.5
+South Korea,,2015,72
+Kosovo,,2016,
+Iran,,2017,66
+Iran,,2018,66.15
+Iran,,2019,66.3
+Iran,,2020,66.45
+Iran,,2021,66.6
+Iran,,2022,66.75
+Belarus,,2008,61.18
+South Korea,,2009,70.68
+Malta,,2010,70.4
+Mauritius,,2011,63.52
+Belarus,,2012,63.42
+Poland,,2013,67.64
+Romania,,2014,66.12
+Romania,,2015,66.3
+Serbia,,2016,66.525
+Iraq,,2017,61.75
+Iraq,,2018,62.225
+Iraq,,2020,63.175
+Iraq,,2021,63.65
+Portugal,,2006,68.34
+Estonia,,2008,66.34
+Paraguay,,2009,65.12
+Nicaragua,,2010,64.7
+Hong Kong S.A.R. of China,,2011,
+Kosovo,,2012,
+Jamaica,,2013,66.6
+Slovenia,,2014,69.84
+Slovenia,,2015,70
+Peru,,2016,68.975
+Ireland,,2017,70.9
+Ireland,,2018,71
+Ireland,,2019,71.1
+Ireland,,2020,71.2
+Ireland,,2021,71.3
+Ireland,,2022,71.4
+Honduras,,2006,63.1
+Vietnam,,2007,64.26
+Botswana,,2008,49.72
+Belarus,,2009,61.74
+Hong Kong S.A.R. of China,,2010,
+Lithuania,,2011,64.5
+Russia,,2012,61.38
+Lithuania,,2013,64.9
+Mauritius,,2014,63.88
+Belarus,,2015,65.1
+Estonia,,2016,68.525
+Israel,,2017,72.1
+Israel,,2018,72.25
+Israel,,2019,72.4
+Israel,,2020,72.55
+Israel,,2021,72.7
+Israel,,2022,72.85
+Brazil,,2005,63.1
+Romania,,2007,64.86
+Honduras,,2008,62.7
+Moldova,,2009,60.62
+Peru,,2010,67.5
+Dominican Republic,,2011,64.16
+Algeria,,2012,65.7
+Bhutan,,2013,62.24
+Cyprus,,2014,71.44
+Lithuania,,2015,65.3
+Honduras,,2016,61.725
+Italy,,2017,71.75
+Italy,,2018,71.825
+Italy,,2019,71.9
+Italy,,2020,71.975
+Italy,,2021,72.05
+Italy,,2022,72.125
+Peru,,2009,67.24
+Russia,,2013,61.82
+Indonesia,,2014,62.08
+Estonia,,2015,68.3
+Mauritius,,2016,63.975
+Ivory Coast,,2017,53.65
+Ivory Coast,,2018,54.225
+Ivory Coast,,2019,54.8
+Ivory Coast,,2020,55.375
+Ivory Coast,,2021,55.95
+Ivory Coast,,2022,56.525
+Bolivia,,2006,60.9
+Russia,,2011,60.94
+Azerbaijan,,2013,62.54
+Turkiye,,2014,67.54
+Jamaica,,2017,66.6
+Jamaica,,2019,66.6
+Jamaica,,2020,66.6
+Jamaica,,2021,66.6
+Jamaica,,2022,66.6
+Germany,,2005,69.9
+Laos,,2007,56.26
+South Korea,,2008,70.46
+Albania,,2009,67.32
+Croatia,,2010,67.3
+Nicaragua,,2011,64.8
+Vietnam,,2012,64.66
+Cyprus,,2013,71.28
+Estonia,,2014,68.02
+Greece,,2015,70.4
+Moldova,,2016,63.3
+Japan,,2016,73.725
+Japan,,2017,73.85
+Japan,,2018,73.975
+Japan,,2019,74.1
+Japan,,2020,74.225
+Japan,,2021,74.35
+Mexico,,2005,64.4
+Iran,,2007,64.58
+South Africa,,2008,47.8
+Thailand,,2009,66.92
+Moldova,,2010,61
+Croatia,,2011,67.42
+Albania,,2012,68.16
+Kyrgyzstan,,2013,62.86
+Somalia,,2014,47.66
+Libya,,2015,64.3
+Pakistan,,2016,56.075
+Jordan,,2017,67.6
+Jordan,,2018,67.6
+Jordan,,2019,67.6
+Jordan,,2020,67.6
+Jordan,,2021,67.6
+Jordan,,2022,67.6
+Estonia,,2006,65.78
+Estonia,,2007,66.06
+Syria,,2008,68.62
+Indonesia,,2009,60.98
+Malaysia,,2010,65.4
+Jamaica,,2011,66.6
+Nigeria,,2012,52.14
+Turkmenistan,,2013,61.06
+Hong Kong S.A.R. of China,,2014,
+Peru,,2015,68.8
+Kazakhstan,,2016,63.8
+Kazakhstan,,2017,64.2
+Kazakhstan,,2018,64.6
+Kazakhstan,,2019,65
+Kazakhstan,,2020,65.4
+Kazakhstan,,2021,65.8
+Kazakhstan,,2022,66.2
+India,,2006,55.86
+El Salvador,,2007,64.94
+Uzbekistan,,2008,61.82
+Lithuania,,2009,64.1
+Jordan,,2010,66.7
+Greece,,2011,70.08
+Hong Kong S.A.R. of China,,2012,
+Estonia,,2013,67.74
+Pakistan,,2014,55.54
+Venezuela,,2015,65.1
+Hong Kong S.A.R. of China,,2016,
+Kenya,,2017,56.9
+Kenya,,2018,57.3
+Kenya,,2019,57.7
+Kenya,,2020,58.1
+Kenya,,2021,58.5
+Kenya,,2022,58.9
+Paraguay,,2007,64.96
+Bolivia,,2008,61.3
+Croatia,,2009,67.18
+Belarus,,2010,62.3
+Algeria,,2011,65.6
+Turkmenistan,,2012,60.74
+Indonesia,,2013,61.86
+Dominican Republic,,2014,63.44
+Paraguay,,2015,65.6
+Hungary,,2016,66.75
+Kosovo,,2017,
+Kosovo,,2018,
+Kosovo,,2019,
+Kosovo,,2020,
+Kosovo,,2021,
+Kosovo,,2022,
+South Korea,,2006,70.02
+Dominican Republic,,2009,64.64
+Kazakhstan,,2010,60.4
+Turkiye,,2011,67.06
+Nicaragua,,2012,64.9
+Tunisia,,2013,66.54
+Croatia,,2014,67.78
+Philippines,,2015,61.9
+Portugal,,2016,70.625
+Kuwait,,2017,70.15
+Kuwait,,2019,70.1
+Vietnam,,2006,64.18
+Ukraine,,2007,61.24
+Ecuador,,2008,65.12
+Hong Kong S.A.R. of China,,2009,
+Turkiye,,2010,66.9
+Pakistan,,2011,54.76
+Indonesia,,2012,61.64
+Zambia,,2013,51.38
+Jordan,,2014,67.42
+Turkiye,,2015,67.7
+Libya,,2016,64.525
+Kyrgyzstan,,2017,64.75
+Kyrgyzstan,,2018,65.275
+Kyrgyzstan,,2019,65.8
+Kyrgyzstan,,2020,66.325
+Kyrgyzstan,,2021,66.85
+Kyrgyzstan,,2022,67.375
+Slovakia,,2006,65.62
+Russia,,2007,59.18
+El Salvador,,2008,64.76
+Belarus,,2011,62.86
+Estonia,,2012,67.46
+Laos,,2017,59.9
+Laos,,2018,60.2
+Laos,,2019,60.5
+Laos,,2020,60.8
+Laos,,2021,61.1
+Uzbekistan,,2006,61.34
+Ghana,,2007,52.98
+Ukraine,,2008,61.56
+Malaysia,,2009,65.32
+Montenegro,,2011,66.28
+Turkiye,,2012,67.22
+China,,2013,67.48
+Philippines,,2014,61.84
+Cyprus,,2015,71.6
+Philippines,,2016,61.925
+Latvia,,2017,66
+Latvia,,2018,66.1
+Latvia,,2019,66.2
+Latvia,,2020,66.3
+Latvia,,2021,66.4
+Latvia,,2022,66.5
+Japan,,2022,74.475
+Moldova,,2006,59.48
+India,,2008,56.58
+Kazakhstan,,2009,59.8
+Algeria,,2010,65.5
+Portugal,,2011,69.54
+Montenegro,,2012,66.36
+North Macedonia,,2013,65.14
+Jamaica,,2014,66.6
+Jordan,,2015,67.6
+Croatia,,2016,68.075
+Lebanon,,2017,65.85
+Lebanon,,2018,65.925
+Lebanon,,2019,66
+Lebanon,,2020,66.075
+Lebanon,,2021,66.15
+Lebanon,,2022,66.225
+Lebanon,,2011,65.46
+Morocco,,2016,63.4
+Lesotho,,2017,42.9
+Lesotho,,2019,44.2
+Peru,,2007,66.72
+Latvia,,2008,63.7
+Indonesia,,2010,61.2
+Montenegro,,2014,66.52
+Somalia,,2015,48.1
+North Macedonia,,2016,65.5
+Liberia,,2017,53.7
+Liberia,,2018,54.3
+Liberia,,2019,54.9
+Liberia,,2022,56.7
+Kyrgyzstan,,2012,62.44
+Hungary,,2015,66.6
+Algeria,,2016,66.1
+Libya,,2017,64.75
+Libya,,2018,64.975
+Libya,,2019,65.2
+Dominican Republic,,2006,65.36
+South Africa,,2007,46.9
+Hong Kong S.A.R. of China,,2008,
+Romania,,2009,65.22
+Montenegro,,2010,66.2
+Indonesia,,2011,61.42
+Romania,,2012,65.76
+Jordan,,2013,67.24
+Azerbaijan,,2014,62.82
+Serbia,,2015,66.4
+Turkiye,,2016,67.875
+Lithuania,,2017,66
+Lithuania,,2018,66.35
+Lithuania,,2019,66.7
+Lithuania,,2020,67.05
+Lithuania,,2021,67.4
+Lithuania,,2022,67.75
+Nicaragua,,2009,64.6
+Russia,,2010,60.5
+Morocco,,2011,62.66
+Serbia,,2012,65.98
+Portugal,,2013,70.02
+Kyrgyzstan,,2014,63.28
+China,,2015,68
+China,,2016,68.125
+Luxembourg,,2017,71.55
+Luxembourg,,2018,71.575
+Luxembourg,,2019,71.6
+Luxembourg,,2022,71.675
+South Africa,,2006,46
+Iran,,2008,64.72
+Ukraine,,2011,62.52
+South Africa,,2012,51.4
+Morocco,,2013,62.98
+Bosnia and Herzegovina,,2014,67
+Croatia,,2015,67.9
+Azerbaijan,,2016,63.225
+Madagascar,,2017,56.8
+Madagascar,,2018,57.05
+Madagascar,,2019,57.3
+Madagascar,,2022,58.05
+Laos,,2006,55.88
+Montenegro,,2007,65.96
+Vietnam,,2009,64.42
+China,,2011,66.96
+Jordan,,2012,67.06
+Iran,,2013,65.42
+Lebanon,,2014,65.64
+Lebanon,,2015,65.7
+Montenegro,,2016,66.7
+Malawi,,2017,56
+Malawi,,2018,56.55
+Malawi,,2019,57.1
+Malawi,,2021,58.2
+Malawi,,2022,58.75
+Ecuador,,2006,64.44
+Kosovo,,2007,
+Peru,,2008,66.98
+Uzbekistan,,2009,62.06
+Vietnam,,2010,64.5
+Mongolia,,2011,58.22
+Pakistan,,2012,55.02
+Pakistan,,2013,55.28
+North Macedonia,,2014,65.22
+Morocco,,2015,63.3
+Malaysia,,2018,65.725
+Malaysia,,2019,65.7
+Malaysia,,2020,65.675
+Malaysia,,2021,65.65
+Maldives,,2018,69.775
+Russia,,2006,58.74
+Turkiye,,2008,66.58
+Zambia,,2009,48.74
+Albania,,2010,67.6
+Romania,,2011,65.58
+Latvia,,2012,64.9
+Bosnia and Herzegovina,,2013,67
+China,,2014,67.74
+Azerbaijan,,2015,63.1
+Greece,,2016,70.525
+Mali,,2017,53.8
+Mali,,2018,54.2
+Mali,,2019,54.6
+Mali,,2020,55
+Mali,,2021,55.4
+Mali,,2022,55.8
+South Africa,,2009,48.7
+Kosovo,,2010,
+Zambia,,2011,50.06
+Greece,,2012,70.16
+Serbia,,2013,66.12
+Hungary,,2014,66.44
+Tunisia,,2015,66.7
+Jordan,,2016,67.6
+Malta,,2017,71.4
+Malta,,2018,71.45
+Malta,,2019,71.5
+Malta,,2020,71.55
+Malta,,2021,71.6
+Malta,,2022,71.65
+Indonesia,,2007,60.54
+Nicaragua,,2008,64.5
+Turkiye,,2009,66.74
+Tunisia,,2010,66.3
+Bosnia and Herzegovina,,2011,67
+China,,2012,67.22
+Romania,,2013,65.94
+Portugal,,2014,70.26
+Montenegro,,2015,66.6
+Lebanon,,2016,65.775
+Mauritania,,2017,59.35
+Mauritania,,2018,59.575
+Mauritania,,2019,59.8
+Mauritania,,2022,60.475
+Philippines,,2011,61.66
+Paraguay,,2014,65.52
+Dominican Republic,,2016,63.4
+Mauritius,,2017,63.95
+Mauritius,,2018,63.925
+Mauritius,,2019,63.9
+Mauritius,,2020,63.875
+Mauritius,,2021,63.85
+Mauritius,,2022,63.825
+Czechia,,2005,67.1
+Honduras,,2007,62.9
+Tajikistan,,2008,60.7
+Pakistan,,2009,54.24
+Portugal,,2010,69.3
+Bangladesh,,2011,61.72
+Ghana,,2012,55.18
+Montenegro,,2013,66.44
+Serbia,,2014,66.26
+Tajikistan,,2015,61.4
+Nigeria,,2016,53.425
+Mexico,,2017,65.8
+Mexico,,2018,65.8
+Mexico,,2019,65.8
+Mexico,,2020,65.8
+Mexico,,2021,65.8
+Mexico,,2022,65.8
+Indonesia,,2006,60.32
+Dominican Republic,,2007,65.12
+Bangladesh,,2008,60.16
+Lebanon,,2009,65.34
+Uzbekistan,,2010,62.3
+Mozambique,,2011,46.92
+Somaliland region,,2012,
+Latvia,,2013,65.2
+Vietnam,,2014,64.82
+Bosnia and Herzegovina,,2015,67
+Bosnia and Herzegovina,,2016,67.05
+Moldova,,2017,63.7
+Moldova,,2018,64.1
+Moldova,,2019,64.5
+Moldova,,2020,64.9
+Moldova,,2021,65.3
+Moldova,,2022,65.7
+Philippines,,2007,61.42
+Laos,,2008,56.64
+Lithuania,,2010,64.3
+Latvia,,2011,64.6
+Ukraine,,2012,62.84
+Vietnam,,2013,64.74
+Honduras,,2014,61.5
+Bhutan,,2015,62.6
+Belarus,,2016,65.325
+Mongolia,,2017,60.1
+Mongolia,,2018,60.2
+Mongolia,,2019,60.3
+Mongolia,,2020,60.4
+Mongolia,,2021,60.5
+Mongolia,,2022,60.6
+India,,2007,56.22
+Ukraine,,2009,61.88
+Iraq,,2010,60.9
+Honduras,,2011,62.1
+Bahrain,,2012,65.48
+Dominican Republic,,2013,63.68
+Kosovo,,2014,
+Portugal,,2015,70.5
+Indonesia,,2016,62.425
+Montenegro,,2017,66.8
+Montenegro,,2018,66.9
+Montenegro,,2019,67
+Montenegro,,2020,67.1
+Ukraine,,2010,62.2
+Somaliland region,,2011,
+Zambia,,2012,50.72
+Lebanon,,2013,65.58
+Kosovo,,2015,
+Tajikistan,,2016,61.55
+Morocco,,2017,63.5
+Morocco,,2018,63.6
+Morocco,,2019,63.7
+Morocco,,2020,63.8
+Morocco,,2021,63.9
+Morocco,,2022,64
+Zambia,,2006,46.76
+Ecuador,,2007,64.78
+Djibouti,,2008,53.64
+South Africa,,2011,50.5
+Vietnam,,2015,64.9
+Mozambique,,2017,49.5
+Mozambique,,2018,49.95
+Mozambique,,2019,50.4
+Mozambique,,2021,51.3
+Mozambique,,2022,51.75
+Philippines,,2012,61.72
+Philippines,,2013,61.78
+Nepal,,2014,60.14
+Dominican Republic,,2015,63.2
+Nepal,,2016,60.475
+Myanmar,,2017,60.25
+Myanmar,,2018,60.575
+Myanmar,,2019,60.9
+Myanmar,,2020,61.225
+Myanmar,,2021,61.55
+Hungary,,2007,65.32
+Bhutan,,2014,62.42
+Namibia,,2017,55.35
+Namibia,,2018,55.725
+Namibia,,2019,56.1
+Namibia,,2020,56.475
+Namibia,,2021,56.85
+Namibia,,2022,57.225
+Peru,,2006,66.46
+Nicaragua,,2007,64.4
+Ghana,,2008,53.42
+Russia,,2009,60.06
+Lebanon,,2010,65.4
+Kyrgyzstan,,2011,62.02
+Portugal,,2012,69.78
+Tajikistan,,2013,61.2
+Kenya,,2014,55.58
+Indonesia,,2015,62.3
+Vietnam,,2016,65
+Nepal,,2017,60.75
+Nepal,,2018,61.025
+Nepal,,2019,61.3
+Nepal,,2020,61.575
+Nepal,,2021,61.85
+Nepal,,2022,62.125
+Jordan,,2005,65.8
+Bosnia and Herzegovina,,2007,67
+Nigeria,,2008,50.86
+Djibouti,,2010,54.6
+Hungary,,2011,65.96
+Morocco,,2012,62.82
+Ghana,,2013,55.62
+Tajikistan,,2014,61.3
+Cameroon,,2015,51.8
+Mongolia,,2016,60
+Netherlands,,2017,71.25
+Netherlands,,2018,71.325
+Netherlands,,2019,71.4
+Netherlands,,2020,71.475
+Netherlands,,2021,71.55
+Netherlands,,2022,71.625
+Ukraine,,2006,60.92
+Malawi,,2007,46.42
+Jordan,,2008,66.34
+Kyrgyzstan,,2010,61.6
+Lesotho,,2011,41.52
+Zimbabwe,,2012,47.6
+Hungary,,2013,66.28
+Egypt,,2014,61.94
+Mongolia,,2015,59.9
+State of Palestine,,2016,
+New Zealand,,2017,70.05
+New Zealand,,2018,70.125
+New Zealand,,2019,70.2
+New Zealand,,2020,70.275
+New Zealand,,2021,70.35
+New Zealand,,2022,70.425
+Botswana,,2006,48.84
+Nigeria,,2007,50.54
+China,,2008,66.18
+Malawi,,2009,48.54
+India,,2010,57.3
+North Macedonia,,2011,64.98
+Azerbaijan,,2012,62.26
+Mongolia,,2013,59.06
+South Africa,,2014,53.2
+North Macedonia,,2015,65.3
+Kyrgyzstan,,2016,64.225
+Nicaragua,,2017,65.35
+Nicaragua,,2018,65.425
+Nicaragua,,2019,65.5
+Nicaragua,,2020,65.575
+Nicaragua,,2021,65.65
+Nicaragua,,2022,65.725
+Paraguay,,2006,64.88
+Namibia,,2007,51.88
+Dominican Republic,,2008,64.88
+Estonia,,2009,66.62
+Philippines,,2010,61.6
+Tunisia,,2011,66.38
+Mongolia,,2012,58.64
+Turkiye,,2013,67.38
+Mongolia,,2014,59.48
+Nigeria,,2015,53.1
+Bulgaria,,2016,66
+Niger,,2017,54.8
+Niger,,2018,55.15
+Niger,,2019,55.5
+Niger,,2022,56.55
+Azerbaijan,,2006,60.58
+Armenia,,2007,64.08
+Azerbaijan,,2008,61.14
+Bangladesh,,2009,60.68
+Romania,,2010,65.4
+Laos,,2012,58.16
+State of Palestine,,2013,
+Sierra Leone,,2015,49.7
+Gabon,,2016,56.625
+Nigeria,,2017,53.75
+Nigeria,,2018,54.075
+Nigeria,,2019,54.4
+Nigeria,,2020,54.725
+Nigeria,,2021,55.05
+China,,2007,65.92
+Kyrgyzstan,,2009,61.18
+Bangladesh,,2010,61.2
+Eswatini,,2011,42.5
+Botswana,,2012,51.48
+Nigeria,,2013,52.46
+Albania,,2014,68.72
+Kyrgyzstan,,2015,63.7
+Cameroon,,2016,52.475
+North Macedonia,,2017,65.7
+North Macedonia,,2018,65.9
+North Macedonia,,2019,66.1
+North Macedonia,,2020,66.3
+North Macedonia,,2021,66.5
+North Macedonia,,2022,66.7
+State of Palestine,,2006,61.78
+Indonesia,,2008,60.76
+Bosnia and Herzegovina,,2012,67
+Myanmar,,2014,59.12
+South Africa,,2015,54.1
+South Africa,,2016,54.625
+Norway,,2017,71.3
+Norway,,2018,71.35
+Norway,,2019,71.4
+Norway,,2020,71.45
+Norway,,2021,71.5
+Norway,,2022,71.55
+Kosovo,,2011,
+Greece,,2005,69.6
+Mozambique,,2007,45.24
+Kyrgyzstan,,2008,60.76
+Egypt,,2009,61.64
+Mauritania,,2010,57.4
+Zimbabwe,,2011,46.4
+Dominican Republic,,2012,63.92
+Iraq,,2013,60.84
+Tunisia,,2014,66.62
+Bulgaria,,2015,65.9
+Sierra Leone,,2016,50.5
+Pakistan,,2017,56.35
+Pakistan,,2018,56.625
+Pakistan,,2019,56.9
+Pakistan,,2020,57.175
+Pakistan,,2021,57.45
+Latvia,,2006,63.1
+Moldova,,2007,59.86
+Zambia,,2008,48.08
+Tunisia,,2009,66.22
+Nigeria,,2010,51.5
+Haiti,,2011,33.32
+Bangladesh,,2012,62.24
+Greece,,2013,70.24
+Greece,,2014,70.32
+Honduras,,2015,61.3
+Somalia,,2016,48.5
+Panama,,2017,68.5
+Panama,,2018,68.6
+Panama,,2019,68.7
+Panama,,2021,68.9
+Panama,,2022,69
+Nigeria,,2006,50.22
+Serbia,,2007,65.28
+Senegal,,2008,56.1
+Somaliland region,,2009,
+Afghanistan,,2010,51.1
+Uganda,,2011,52.94
+India,,2012,58.02
+Honduras,,2013,61.7
+State of Palestine,,2014,
+Zambia,,2015,52.7
+Iran,,2016,65.85
+Paraguay,,2017,65.7
+Paraguay,,2019,65.8
+Paraguay,,2020,65.85
+Paraguay,,2021,65.9
+Paraguay,,2022,65.95
+Philippines,,2006,61.36
+Nepal,,2007,59.72
+Mozambique,,2008,45.66
+Nigeria,,2009,51.18
+Dominican Republic,,2010,64.4
+Bahrain,,2011,65.24
+Hungary,,2012,66.12
+Ukraine,,2013,63.16
+Iran,,2014,65.56
+Pakistan,,2015,55.8
+Myanmar,,2016,59.925
+Peru,,2017,69.15
+Peru,,2018,69.325
+Peru,,2019,69.5
+Peru,,2020,69.675
+Peru,,2021,69.85
+Peru,,2022,70.025
+Lebanon,,2006,65.16
+Kyrgyzstan,,2007,60.34
+Armenia,,2008,64.32
+Syria,,2009,66.86
+Hungary,,2010,65.8
+Serbia,,2011,65.84
+Mauritania,,2012,58
+Zimbabwe,,2013,48.8
+Bangladesh,,2014,63.28
+Nepal,,2015,60.2
+Senegal,,2016,58.5
+Philippines,,2017,61.95
+Philippines,,2018,61.975
+Philippines,,2019,62
+Philippines,,2020,62.025
+Philippines,,2021,62.05
+Poland,,2005,66.2
+Senegal,,2007,55.8
+Bosnia and Herzegovina,,2009,67
+State of Palestine,,2010,62.25
+Burkina Faso,,2011,51.64
+Iraq,,2012,60.86
+Bangladesh,,2013,62.76
+Namibia,,2014,54.26
+Egypt,,2015,62
+Egypt,,2016,62.25
+Poland,,2017,68.35
+Poland,,2018,68.525
+Poland,,2019,68.7
+Poland,,2020,68.875
+Poland,,2021,69.05
+Poland,,2022,69.225
+Kyrgyzstan,,2006,59.92
+Madagascar,,2008,54.62
+Zimbabwe,,2010,45.2
+Mauritania,,2011,57.7
+State of Palestine,,2012,
+Haiti,,2013,43.96
+Liberia,,2014,52.42
+Iran,,2015,65.7
+Bangladesh,,2016,63.925
+Portugal,,2017,70.75
+Portugal,,2018,70.875
+Portugal,,2019,71
+Portugal,,2020,71.125
+Portugal,,2021,71.25
+Portugal,,2022,71.375
+Nepal,,2009,59.84
+Bosnia and Herzegovina,,2010,67
+Iran,,2011,65.14
+North Macedonia,,2012,65.06
+State of Palestine,,2015,
+Lebanon,,2005,65.1
+Latvia,,2007,63.4
+Djibouti,,2009,54.12
+Egypt,,2010,61.7
+State of Palestine,,2011,
+Congo (Kinshasa),,2012,50.9
+Nepal,,2013,60.08
+Malawi,,2014,53.84
+Congo (Brazzaville),,2015,54.9
+Ivory Coast,,2016,53.075
+Romania,,2017,66.55
+Romania,,2018,66.675
+Romania,,2019,66.8
+Romania,,2020,66.925
+Romania,,2021,67.05
+Romania,,2022,67.175
+Tajikistan,,2006,60.5
+Albania,,2007,66.76
+Chad,,2008,47.84
+Hungary,,2009,65.64
+Somaliland region,,2010,
+El Salvador,,2011,64.22
+Iran,,2012,65.28
+Albania,,2013,68.44
+Iraq,,2014,60.82
+Gabon,,2015,56.3
+Congo (Kinshasa),,2016,52.825
+Russia,,2017,63.45
+Russia,,2018,63.825
+Russia,,2019,64.2
+Russia,,2020,64.575
+Russia,,2021,64.95
+Russia,,2022,65.325
+Mozambique,,2006,44.82
+Egypt,,2008,61.58
+Philippines,,2009,61.54
+Iraq,,2011,60.88
+Honduras,,2012,61.9
+Sierra Leone,,2013,48.94
+Ethiopia,,2014,57.64
+Bangladesh,,2015,63.8
+Tunisia,,2016,66.75
+Rwanda,,2017,59.55
+Rwanda,,2018,59.875
+Rwanda,,2019,60.2
+Iran,,2005,64.3
+Mongolia,,2007,56.54
+Lebanon,,2008,65.28
+Yemen,,2009,58.64
+China,,2010,66.7
+Laos,,2011,57.78
+Lebanon,,2012,65.52
+Congo (Kinshasa),,2013,51.4
+Sierra Leone,,2014,49.32
+Senegal,,2015,58.2
+Ghana,,2016,56.875
+Saudi Arabia,,2017,63.6
+Saudi Arabia,,2018,63.8
+Saudi Arabia,,2019,64
+Saudi Arabia,,2020,64.2
+Saudi Arabia,,2021,64.4
+Saudi Arabia,,2022,64.6
+Nepal,,2006,59.66
+Bangladesh,,2007,59.64
+Iraq,,2008,60.94
+Montenegro,,2009,66.12
+South Africa,,2010,49.6
+Azerbaijan,,2011,61.98
+Ethiopia,,2012,56.32
+Ethiopia,,2013,56.98
+Mauritania,,2014,58.6
+Sri Lanka,,2015,66.6
+Albania,,2016,69.025
+Senegal,,2017,58.8
+Senegal,,2018,59.1
+Senegal,,2019,59.4
+Senegal,,2020,59.7
+Senegal,,2021,60
+Senegal,,2022,60.3
+Kenya,,2007,51.94
+Iraq,,2009,60.92
+Ghana,,2010,54.3
+Mali,,2011,51.64
+Sudan,,2012,58.18
+India,,2013,58.38
+Armenia,,2014,65.76
+Albania,,2015,69
+Mauritania,,2016,59.125
+Serbia,,2017,66.65
+Serbia,,2018,66.775
+Serbia,,2019,66.9
+Serbia,,2020,67.025
+Serbia,,2021,67.15
+China,,2006,65.66
+Azerbaijan,,2007,60.86
+Philippines,,2008,61.48
+Mongolia,,2010,57.8
+India,,2011,57.66
+Sri Lanka,,2013,65.64
+Bulgaria,,2014,65.76
+Mali,,2015,53
+Cambodia,,2016,60.9
+Sierra Leone,,2017,51.3
+Sierra Leone,,2018,52.1
+Sierra Leone,,2019,52.9
+Sierra Leone,,2021,54.5
+Sierra Leone,,2022,55.3
+Ghana,,2006,52.54
+North Macedonia,,2007,64.66
+Uganda,,2008,50.42
+Cameroon,,2009,49.16
+Cameroon,,2010,49.6
+Niger,,2011,52.34
+Georgia,,2013,64
+India,,2014,58.74
+Ethiopia,,2015,58.3
+Georgia,,2016,64.325
+Singapore,,2017,73.4
+Singapore,,2018,73.5
+Singapore,,2019,73.6
+Singapore,,2021,73.8
+Nicaragua,,2006,64.3
+Syria,,2010,65.1
+Congo (Kinshasa),,2011,50.4
+Kenya,,2012,54.54
+Armenia,,2013,65.52
+Congo (Kinshasa),,2014,51.9
+Mozambique,,2015,48.6
+Iraq,,2016,61.275
+Slovakia,,2017,68.05
+Slovakia,,2018,68.275
+Slovakia,,2019,68.5
+Slovakia,,2020,68.725
+Slovakia,,2021,68.95
+Senegal,,2006,55.5
+Latvia,,2009,64
+Serbia,,2010,65.7
+Congo (Brazzaville),,2011,53.38
+Tajikistan,,2012,61.1
+Cameroon,,2013,50.92
+Senegal,,2014,57.9
+Iraq,,2015,60.8
+Kenya,,2016,56.5
+Slovenia,,2017,70.35
+Slovenia,,2018,70.525
+Slovenia,,2019,70.7
+Slovenia,,2020,70.875
+Slovenia,,2021,71.05
+Slovenia,,2022,71.225
+Zambia,,2014,52.04
+Ivory Coast,,2015,52.5
+Zambia,,2016,53.125
+Uganda,,2009,51.26
+Sudan,,2010,57.7
+Sierra Leone,,2011,48.18
+Tunisia,,2012,66.46
+Sri Lanka,,2006,62.28
+Yemen,,2007,58.72
+Mongolia,,2008,56.96
+Tajikistan,,2009,60.8
+Morocco,,2010,62.5
+Cameroon,,2011,50.04
+Myanmar,,2012,58.16
+Yemen,,2013,58.48
+Ukraine,,2014,63.48
+Burkina Faso,,2015,53.4
+Armenia,,2016,66.275
+South Africa,,2017,55.15
+South Africa,,2018,55.675
+South Africa,,2019,56.2
+South Africa,,2020,56.725
+South Africa,,2021,57.25
+Bangladesh,,2006,59.12
+Uganda,,2007,49.58
+Cambodia,,2008,58.32
+Azerbaijan,,2009,61.42
+Tajikistan,,2010,60.9
+Kenya,,2011,54.02
+Haiti,,2012,38.64
+Mauritania,,2013,58.3
+Georgia,,2014,64.1
+Kenya,,2015,56.1
+Ethiopia,,2016,58.7
+South Korea,,2017,72.55
+South Korea,,2018,72.825
+South Korea,,2019,73.1
+South Korea,,2020,73.375
+South Korea,,2021,73.65
+South Korea,,2022,73.925
+Sri Lanka,,2014,66.12
+Armenia,,2015,66
+Niger,,2016,54.45
+South Sudan,,2017,53.35
+Pakistan,,2005,53.2
+Tajikistan,,2007,60.6
+Nepal,,2008,59.78
+India,,2009,56.94
+Senegal,,2010,56.7
+Chad,,2011,48.98
+Angola,,2012,51.84
+Myanmar,,2013,58.64
+Cameroon,,2014,51.36
+India,,2015,59.1
+Uganda,,2016,56.775
+Spain,,2017,71.85
+Spain,,2018,71.975
+Spain,,2019,72.1
+Spain,,2020,72.225
+Spain,,2021,72.35
+Spain,,2022,72.475
+Armenia,,2006,63.84
+Sri Lanka,,2007,62.76
+Sri Lanka,,2008,63.24
+Mauritania,,2009,57.1
+Armenia,,2010,64.8
+Madagascar,,2011,55.34
+Armenia,,2012,65.28
+Botswana,,2013,51.92
+Zimbabwe,,2014,50
+Chad,,2015,50.5
+Sri Lanka,,2017,66.8
+Sri Lanka,,2018,66.9
+Sri Lanka,,2019,67
+Sri Lanka,,2020,67.1
+Sri Lanka,,2021,67.2
+Kenya,,2006,51.42
+Cameroon,,2007,48.28
+Pakistan,,2008,53.98
+State of Palestine,,2009,62.132
+Nepal,,2010,59.9
+Djibouti,,2011,55.08
+Mali,,2012,51.98
+Malawi,,2013,52.78
+Niger,,2014,53.66
+Uganda,,2015,56.3
+Afghanistan,,2016,52.925
+State of Palestine,,2017,
+State of Palestine,,2018,
+State of Palestine,,2019,
+State of Palestine,,2022,
+Sudan,,2009,57.46
+Yemen,,2010,58.6
+Sudan,,2011,57.94
+Uganda,,2012,53.78
+Sudan,,2014,58.66
+Malawi,,2012,51.72
+Hungary,,2005,65
+Tanzania,,2007,51.42
+State of Palestine,,2008,62.015
+China,,2009,66.44
+Kenya,,2010,53.5
+Tajikistan,,2011,61
+Georgia,,2012,63.9
+Bulgaria,,2013,65.62
+Congo (Brazzaville),,2014,54.52
+Myanmar,,2015,59.6
+Burkina Faso,,2016,53.775
+Sweden,,2017,71.65
+Sweden,,2018,71.775
+Sweden,,2019,71.9
+Sweden,,2020,72.025
+Sweden,,2021,72.15
+Sweden,,2022,72.275
+Rwanda,,2006,53.5
+North Macedonia,,2009,64.82
+Cameroon,,2012,50.48
+Botswana,,2014,52.36
+Cambodia,,2015,60.7
+India,,2016,59.4
+Switzerland,,2017,72.1
+Switzerland,,2018,72.3
+Switzerland,,2019,72.5
+Switzerland,,2020,72.7
+Switzerland,,2021,72.9
+Switzerland,,2022,73.1
+Tanzania,,2008,52.08
+Afghanistan,,2009,50.8
+Azerbaijan,,2010,61.7
+Armenia,,2011,65.04
+Nepal,,2012,60.02
+Congo (Brazzaville),,2013,54.14
+Georgia,,2015,64.2
+Mali,,2006,49.94
+Rwanda,,2008,54.7
+Liberia,,2010,52.1
+Gabon,,2011,54.46
+Sri Lanka,,2012,65.16
+Angola,,2013,52.46
+Mali,,2014,52.66
+South Sudan,,2015,53
+Congo (Brazzaville),,2016,55.225
+Taiwan Province of China,,2017,
+Taiwan Province of China,,2018,
+Taiwan Province of China,,2019,
+Taiwan Province of China,,2020,
+Taiwan Province of China,,2021,
+Taiwan Province of China,,2022,
+Madagascar,,2006,54.14
+Niger,,2007,50.58
+Cameroon,,2008,48.72
+Serbia,,2009,65.56
+Uganda,,2010,52.1
+Georgia,,2011,63.8
+Bulgaria,,2012,65.48
+Guinea,,2013,51.26
+Yemen,,2014,58.44
+Ghana,,2015,56.5
+Venezuela,,2016,64.925
+Tajikistan,,2017,61.7
+Tajikistan,,2018,61.85
+Tajikistan,,2019,62
+Tajikistan,,2020,62.15
+Tajikistan,,2021,62.3
+Tanzania,,2006,50.76
+Central African Republic,,2007,41.48
+Mauritania,,2008,56.8
+Senegal,,2009,56.4
+North Macedonia,,2010,64.9
+Sri Lanka,,2011,64.68
+Egypt,,2012,61.82
+Tanzania,,2013,55.38
+Gabon,,2014,55.84
+Afghanistan,,2015,52.6
+Chad,,2016,50.875
+Tanzania,,2017,57.6
+Tanzania,,2018,58.05
+Tanzania,,2019,58.5
+Tanzania,,2020,58.95
+Tanzania,,2021,59.4
+Tanzania,,2022,59.85
+Cameroon,,2006,47.84
+Cambodia,,2007,57.98
+Niger,,2008,51.02
+Kenya,,2009,52.98
+Cambodia,,2010,59
+Egypt,,2011,61.76
+Yemen,,2012,58.52
+Madagascar,,2013,55.82
+Haiti,,2014,49.28
+Ukraine,,2015,63.8
+Ukraine,,2016,63.925
+Thailand,,2017,68.15
+Thailand,,2018,68.225
+Thailand,,2019,68.3
+Thailand,,2020,68.375
+Thailand,,2021,68.45
+Thailand,,2022,68.525
+Malawi,,2006,45.36
+Liberia,,2008,51.94
+Cambodia,,2011,59.34
+Cambodia,,2014,60.36
+Mauritania,,2015,58.9
+Mali,,2016,53.4
+Togo,,2017,55.2
+Togo,,2018,55.7
+Togo,,2019,56.2
+Togo,,2021,57.2
+Togo,,2022,57.7
+Zimbabwe,,2006,40.4
+Georgia,,2008,63.5
+Rwanda,,2011,56.5
+Gabon,,2013,55.38
+Trinidad and Tobago,,2017,65.7
+Niger,,2009,51.46
+Sierra Leone,,2010,47.8
+Tanzania,,2011,54.06
+Chad,,2012,49.36
+Kenya,,2013,55.06
+Ghana,,2014,56.06
+Congo (Kinshasa),,2015,52.4
+Benin,,2016,54.6
+Tunisia,,2017,66.8
+Tunisia,,2018,66.85
+Tunisia,,2019,66.9
+Tunisia,,2020,66.95
+Tunisia,,2021,67
+Tunisia,,2022,67.05
+Egypt,,2005,61.4
+State of Palestine,,2007,61.897
+Mali,,2008,50.62
+Sri Lanka,,2009,63.72
+Georgia,,2010,63.7
+Guinea,,2011,51.02
+Tanzania,,2012,54.72
+Ivory Coast,,2013,51.3
+South Sudan,,2014,52.88
+Malawi,,2015,54.9
+Togo,,2016,54.7
+Turkiye,,2017,68.05
+Turkiye,,2018,68.225
+Turkiye,,2019,68.4
+Turkiye,,2020,68.575
+Turkiye,,2021,68.75
+Ghana,,2009,53.86
+Syria,,2011,63.34
+Gabon,,2012,54.92
+Niger,,2013,53.22
+Angola,,2014,53.08
+Togo,,2015,54.2
+Yemen,,2016,58.175
+Turkmenistan,,2017,61.9
+Turkmenistan,,2018,62
+Turkmenistan,,2019,62.1
+Burkina Faso,,2006,49.44
+Mauritania,,2007,56.5
+Kenya,,2008,52.46
+Ivory Coast,,2009,48.9
+Niger,,2010,51.9
+Malawi,,2011,50.66
+Comoros,,2012,57.48
+Uganda,,2013,54.62
+Uganda,,2014,55.46
+Botswana,,2015,52.8
+Lesotho,,2016,42.25
+Uganda,,2017,57.25
+Uganda,,2018,57.725
+Uganda,,2019,58.2
+Uganda,,2020,58.675
+Uganda,,2021,59.15
+Haiti,,2006,6.72
+Chad,,2007,47.46
+Burkina Faso,,2008,50.32
+Armenia,,2009,64.56
+Burkina Faso,,2010,51.2
+Bulgaria,,2011,65.34
+Burkina Faso,,2012,52.08
+Mali,,2013,52.32
+Madagascar,,2014,56.06
+Zimbabwe,,2015,51.2
+Zimbabwe,,2016,51.675
+Ukraine,,2017,64.05
+Ukraine,,2018,64.175
+Ukraine,,2019,64.3
+Ukraine,,2020,64.425
+Ukraine,,2021,64.55
+Ukraine,,2022,64.675
+Niger,,2006,50.14
+Cambodia,,2009,58.66
+Sri Lanka,,2010,64.2
+Benin,,2011,53.26
+Congo (Brazzaville),,2012,53.76
+Cambodia,,2013,60.02
+Rwanda,,2014,58.3
+Niger,,2015,54.1
+Madagascar,,2016,56.55
+United Arab Emirates,,2017,65.7
+United Arab Emirates,,2018,65.85
+United Arab Emirates,,2019,66
+United Arab Emirates,,2020,66.15
+United Arab Emirates,,2021,66.3
+United Arab Emirates,,2022,66.45
+Romania,,2005,64.5
+Burkina Faso,,2007,49.88
+Haiti,,2008,17.36
+Zimbabwe,,2009,44
+Bulgaria,,2010,65.2
+Comoros,,2011,57.24
+Cambodia,,2012,59.68
+South Africa,,2013,52.3
+Ivory Coast,,2014,51.9
+Tanzania,,2015,56.7
+Guinea,,2016,51.95
+United Kingdom,,2017,69.9
+United Kingdom,,2018,70
+United Kingdom,,2019,70.1
+United Kingdom,,2020,70.2
+United Kingdom,,2021,70.3
+United Kingdom,,2022,70.4
+Uganda,,2006,48.74
+Zambia,,2007,47.42
+Congo (Brazzaville),,2008,52.24
+Rwanda,,2009,55.3
+Comoros,,2010,57
+Senegal,,2011,57
+Niger,,2012,52.78
+Senegal,,2013,57.6
+Tanzania,,2014,56.04
+Benin,,2015,54.3
+Botswana,,2016,53.075
+United States,,2017,66.35
+United States,,2018,66.225
+United States,,2019,66.1
+United States,,2020,65.975
+United States,,2021,65.85
+United States,,2022,65.725
+Georgia,,2006,63.3
+Bulgaria,,2007,64.78
+Afghanistan,,2008,50.5
+Congo (Kinshasa),,2009,49.4
+Haiti,,2010,28
+Afghanistan,,2011,51.4
+Afghanistan,,2012,51.7
+Afghanistan,,2013,52
+Burkina Faso,,2014,52.96
+Madagascar,,2015,56.3
+Malawi,,2016,55.45
+Uruguay,,2017,67.5
+Uruguay,,2018,67.5
+Uruguay,,2019,67.5
+Uruguay,,2020,67.5
+Uruguay,,2021,67.5
+Uruguay,,2022,67.5
+Sierra Leone,,2006,46.28
+Benin,,2008,52.48
+Mali,,2009,50.96
+Mali,,2010,51.3
+Nepal,,2011,59.96
+Senegal,,2012,57.3
+Egypt,,2013,61.88
+Chad,,2014,50.12
+Haiti,,2015,54.6
+Liberia,,2016,53.1
+Uzbekistan,,2017,64.1
+Uzbekistan,,2018,64.4
+Uzbekistan,,2019,64.7
+Uzbekistan,,2020,65
+Uzbekistan,,2021,65.3
+Uzbekistan,,2022,65.6
+Turkiye,,2005,66.1
+Cambodia,,2006,57.64
+Burundi,,2008,49.66
+Georgia,,2009,63.6
+Chad,,2010,48.6
+Yemen,,2011,58.56
+Guinea,,2012,51.14
+Chad,,2013,49.74
+Guinea,,2014,51.38
+Guinea,,2015,51.5
+Haiti,,2016,54.9
+Venezuela,,2017,64.75
+Venezuela,,2018,64.575
+Venezuela,,2019,64.4
+Venezuela,,2020,64.225
+Venezuela,,2021,64.05
+Venezuela,,2022,63.875
+Chad,,2006,47.08
+Georgia,,2007,63.4
+Zimbabwe,,2008,42.8
+Burundi,,2009,50.28
+Central African Republic,,2010,42.5
+Burundi,,2011,51.52
+Madagascar,,2012,55.58
+Benin,,2013,53.78
+Benin,,2014,54.04
+Rwanda,,2015,58.9
+Rwanda,,2016,59.225
+Vietnam,,2017,65.1
+Vietnam,,2018,65.2
+Vietnam,,2019,65.3
+Vietnam,,2020,65.4
+Vietnam,,2021,65.5
+Vietnam,,2022,65.6
+Liberia,,2007,51.86
+Chad,,2009,48.22
+Botswana,,2010,50.6
+Central African Republic,,2011,42.84
+Rwanda,,2012,57.1
+Rwanda,,2013,57.7
+Afghanistan,,2014,52.3
+Syria,,2015,56.3
+Tanzania,,2016,57.15
+Yemen,,2017,57.95
+Yemen,,2018,57.725
+Yemen,,2019,57.5
+Benin,,2006,51.96
+Sierra Leone,,2007,46.66
+Sierra Leone,,2008,47.04
+Comoros,,2009,56.76
+Botswana,,2011,51.04
+Benin,,2012,53.52
+Burkina Faso,,2013,52.52
+Burundi,,2014,53.38
+Yemen,,2015,58.4
+South Sudan,,2016,53.175
+Zambia,,2017,53.55
+Zambia,,2018,53.975
+Zambia,,2019,54.4
+Zambia,,2020,54.825
+Zambia,,2021,55.25
+Togo,,2006,50.24
+Zimbabwe,,2007,41.6
+Togo,,2008,51.12
+Tanzania,,2009,52.74
+Tanzania,,2010,53.4
+Togo,,2011,52.44
+Syria,,2012,61.58
+Syria,,2013,59.82
+Togo,,2014,53.76
+Liberia,,2015,52.5
+Central African Republic,,2016,44.75
+Zimbabwe,,2017,52.15
+Zimbabwe,,2018,52.625
+Zimbabwe,,2019,53.1
+Zimbabwe,,2020,53.575
+Zimbabwe,,2021,54.05
+Zimbabwe,,2022,54.525
